@@ -1,7 +1,7 @@
 # Taylor Swift Song Recommender
  Use your favourite song to find your perfect Taylor Swift song! \
  Completed 2024 \
- By Clara Hong (clarashong)
+ By: Clara Hong (clarashong)
 
  ## Introduction
 With Taylor Swift's current accomplishment in becoming the top streamed artist on spotify as well as the quick-to-sell-out nature of the Eras Tour, I found myself diving into her discography and wanting to become a bigger Swiftie. 
@@ -44,7 +44,7 @@ Spotify link:
 
 Number of recommendations: 3
 
-**Taylor Swift Song Recommendations:**
+**Generated Recommendations:**
 - "'tis the damn season" 
 - "invisible string" 
 - "august - the long pond studio sessions" 
@@ -55,7 +55,7 @@ Spotify link:
 
 Number of recommendations: 1
 
-**Taylor Swift Song Recommendations:**
+**Generated Recommendations:**
 - "Mr. Perfectly Fine (Taylor's Version) (From the Vault)"
 
 ## Contributions
