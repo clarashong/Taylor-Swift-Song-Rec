@@ -1,10 +1,13 @@
 # Taylor Swift Song Recommender
  Use your favourite song to find your perfect Taylor Swift song! \
- Completed 2024 \
+ Updated March 2025  
  By: Clara Hong (clarashong)
 
  ## Introduction
 With Taylor Swift's current accomplishment in becoming the top streamed artist on spotify as well as the quick-to-sell-out nature of the Eras Tour, I found myself diving into her discography and wanting to become a bigger Swiftie. 
+
+## Attribution
+- This work uses data from 🎹 Spotify Tracks Dataset, which is made available under the Open Data Commons Open Database License (ODbL) v1.0. https://www.kaggle.com/dsv/4372070 https://opendatacommons.org/licenses/odbl/1-0/
 
  ## Description 
 This project was made in Jupyter Notebook with python and pandas, and is a way for any music listener, to find some Taylor Swift tracks that match their taste. The program uses data from the following Kaggle datasets: [Spotify Tracks Data Set](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset), 
@@ -13,10 +16,16 @@ This project was made in Jupyter Notebook with python and pandas, and is a way f
 Through this program, I wanted to practice pandas skills, and create something fun out of these two datasets. Since song attributes like "danceability" and "energy" where already listed out, I thought it was the perfect opportunity to make a recommendation program. 
 
 ## Usage 
+1. Create a Datasets folder
+2. Download the datasets at: 
+- [Spotify Tracks Data Set](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) -> `./Datasets/spotify-tracks-dataset.csv`
+- [Taylor Swift Spotify Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset/data?select=taylor_swift_spotify.csv) -> `./Datasets/taylor_swift_spotify.csv`
 
-For the project, you need Jupyter Notebook which can be installed through running: 
+3. For the project, you need Jupyter Notebook and pandas which can be installed through running: 
 ```sh
 pip install notebook
+pip install ipykernel
+pip install pandas
 ```
 Launch the notebook: ``` main.ipynb ```
 
