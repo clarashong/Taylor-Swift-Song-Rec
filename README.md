@@ -7,7 +7,7 @@
 With Taylor Swift's current accomplishment in becoming the top streamed artist on spotify as well as the quick-to-sell-out nature of the Eras Tour, I found myself diving into her discography and wanting to become a bigger Swiftie. 
 
 ## Licence and Attribution
-- This work uses data from 🎹 Spotify Tracks Dataset, which is made available under the Open Database License (ODbL) v1.0. https://www.kaggle.com/dsv/4372070. Read the licence here: https://opendatacommons.org/licenses/odbl/1-0/
+- This work uses data from 🎹 Spotify Tracks Dataset by Maharshi Pandya, which is made available under the Open Database License (ODbL) v1.0. https://www.kaggle.com/dsv/4372070. Read the licence here: https://opendatacommons.org/licenses/odbl/1-0/
 - As a result, this work is also under the ODbL v1.0. licence. 
 
  ## Description 
@@ -44,7 +44,7 @@ You can put the song link in the section of the notebook: ```Find Spotify Track 
 
 Once the information is filled in, run all the boxes in consecutive order. The final recommendations can be found at the end under the last box, in the section ```Final Results```. 
 
-Results will look like: 
+Results will look like:  
 <img src="Images/results.png" alt="drawing" width="500"/> 
 
 ## Examples 
